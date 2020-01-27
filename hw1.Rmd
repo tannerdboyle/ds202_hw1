@@ -1,0 +1,26 @@
+---
+title: "hw1"
+author: "Tanner Boyle, github:= tannerdboyle"
+date: "January 15, 2020"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part 2:
+
+I am going to be working this summer at a healthcare company in Minneapolis called [Milliman](https://us.milliman.com/) as a **data science intern**. I will be joining their *predictive analytics division* to help them learn more about their customers and to market/price their products more effectively. Data science is helpful for healthcare companies because they have mountains and mountains of data and it can be difficult to draw insights without employees who can navigate big data sets. 
+
+![](https://sourcemedia.brightspotcdn.com/dims4/default/21c1467/2147483647/strip/true/crop/1200x457+0+0/resize/400x152!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F56%2F6d%2Fa120ad864491a0ae8c561e2095a5%2Fmilliman-logo-color-cmyk.jpg)
+
+```{r}
+version
+```
+
+
+## Part 7: 
+My github link is: [https://github.com/tannerdboyle](here).
