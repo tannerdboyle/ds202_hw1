@@ -1,0 +1,6 @@
+Hunter Rose
+hrose33
+
+most recent commit was homework. The commit ID is:d9bb9d6611bf23f711e458ae178672e612bda879.
+
+I was able to knit the file with no errors. Not much error/difficulty, I have used Git before.
